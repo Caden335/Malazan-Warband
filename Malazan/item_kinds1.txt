@@ -1,5 +1,5 @@
 itemsfile version 3
-675
+676
  itm_no_item INVALID_ITEM INVALID_ITEM 1  invalid_item 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -2734,6 +2734,10 @@ itemsfile version 3
 0
 
  itm_dragnipur Dragnipur Dragnipur 1  dragnipur 0  4385148931 9223635924301119728 50000 0 6.0000 1 0 0 0 30 43008 90 0 204 0 511 200
+ 0
+0
+
+ itm_anomander_rake_plate Rake's_Plate Rake's_Plate 1  anomander_rake_armor 0  16781325 0 2500 704643072 15.000000 5 50 70 40 18 0 0 0 0 0 0 0
  0
 0
 
